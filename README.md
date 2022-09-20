@@ -20,7 +20,7 @@ And then, if the angles are all within the right range for performing exercise, 
 *Sqaut*
 
 <p>
-<img width="25%" src="https://user-images.githubusercontent.com/59859774/191321519-4a59492c-ee55-48ad-bd3b-bb929e4f6310.gif"/>
+<img width="25%" src="https://user-images.githubusercontent.com/59859774/191322601-9fe7824c-db94-4b83-a677-b658d37d9ad1.gif"/>
 <p/>
 
 
