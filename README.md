@@ -17,4 +17,7 @@ With the positional information of the joint, we calculate the angle between eac
 
 And then, if the angles are all within the right range for performing exercise, it provides positive feedback (count + 1), or negative feedback (no count change).
 
-
+<p align="right">
+<img src="https://user-images.githubusercontent.com/59859774/191319596-370519e8-a02c-43ea-a5cb-7c2fd4c89a51.gif">
+<img src="https://user-images.githubusercontent.com/59859774/191319923-db275e41-da75-4a25-b151-faef9ae17a62.gif">
+</p>
