@@ -22,3 +22,11 @@ And then, if the angles are all within the right range for performing exercise, 
 <p>
 <img width="25%" src="https://user-images.githubusercontent.com/59859774/191321519-4a59492c-ee55-48ad-bd3b-bb929e4f6310.gif"/>
 <p/>
+
+
+
+<p>
+<img width="25%" src="https://user-images.githubusercontent.com/59859774/191320186-652f509c-40cb-4fc0-a32e-c4693902690b.gif"/>
+<img width="25%" src="https://user-images.githubusercontent.com/59859774/191320855-ae978336-4032-4dac-a623-8c8693d68f96.gif"/>
+<p/>
+Lunge
