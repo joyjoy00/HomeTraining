@@ -23,10 +23,10 @@ And then, if the angles are all within the right range for performing exercise, 
 <img width="25%" src="https://user-images.githubusercontent.com/59859774/191322601-9fe7824c-db94-4b83-a677-b658d37d9ad1.gif"/>
 <p/>
 
-
+*Lunge*
 
 <p>
 <img width="25%" src="https://user-images.githubusercontent.com/59859774/191320186-652f509c-40cb-4fc0-a32e-c4693902690b.gif"/>
 <img width="25%" src="https://user-images.githubusercontent.com/59859774/191320855-ae978336-4032-4dac-a623-8c8693d68f96.gif"/>
 <p/>
-Lunge
+
