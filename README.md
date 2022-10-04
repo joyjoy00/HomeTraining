@@ -26,4 +26,6 @@ And then, if the angles are all within the right range for performing exercise, 
 <img width="25%" src="https://user-images.githubusercontent.com/59859774/191320855-ae978336-4032-4dac-a623-8c8693d68f96.gif"/>
 <p/>
 
-reference: https://developer.apple.com/documentation/coreml/model_integration_samples/detecting_human_body_poses_in_an_image
+reference: 
+https://developer.apple.com/documentation/coreml/model_integration_samples/detecting_human_body_poses_in_an_image
+https://github.com/tucan9389/PoseEstimation-CoreML
